@@ -1,0 +1,15 @@
+site_name: Advogados da Isa
+nav:
+  - Home: index.md
+  - Sobre: about.md
+  # - Serviços:
+  #   - Divórcio: servicos/divorcio.md
+  #   - Inventário: servicos/inventario.md
+  #   - Testamento: servicos/testamento.md
+  # - Contato: contato.md
+theme:
+  name: swan
+  custom_dir: theme/
+  favicon: images/favicon.ico
+  logo: images/logo.png
+
